@@ -17,3 +17,5 @@ Do not submit an issue or pull request: this might reveal the vulnerability.
 Instead, you should contact Wyvest#0001 or any of the developers via our discord server (in a support ticket or DM)
 
 We will deal with the vulnerability privately and submit a patch as soon as possible.
+
+You can also submit your vulnerability report to [huntr.dev](https://huntr.dev/bounties/disclose) and see if you can get a bounty reward.
