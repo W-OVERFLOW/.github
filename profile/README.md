@@ -1,5 +1,7 @@
 # 👋 Welcome to W-OVERFLOW!
 
+[![Maven Status](https://betteruptime.com/status-badges/v1/monitor/d2p8.svg)](https://status.woverflow.cc)
+
 We make Minecraft mods and libraries :D 
 
 You can find our website at: <https://woverflow.cc>.
