@@ -1,10 +1,12 @@
 # 👋 Welcome to W-OVERFLOW!
 
-We make Minecraft mods and libraries. 
+We make Minecraft mods and libraries :D 
 
 You can find our website at: <https://woverflow.cc>.
 
 You can also find our Maven repository at: <https://repo.woverflow.cc>.
+
+If a service isn't working, you can check our status page at: <https://status.woverflow.cc>.
 
 You can join our discord server at <https://woverflow.cc/discord>.
 
